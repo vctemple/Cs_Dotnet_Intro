@@ -1,4 +1,4 @@
-# C# .NET software.
+# C# .NET software
 
 (Supported by Digital Innovation One as a introduction exercise for studying)
 
